@@ -29,7 +29,7 @@ echo.
 
 :input
 set "appid="
-set /p "appid=Enter your desired Steam AppID: "
+set /p "appid=2327721: "
 
 :: Validate input
 if not defined appid goto :input
